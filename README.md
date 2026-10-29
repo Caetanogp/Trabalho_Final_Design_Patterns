@@ -295,7 +295,3 @@ npm run examples       # roda os 5 exemplos de examples/
 
 Estrutura: `src/` (biblioteca), `tests/` (testes), `examples/` (uso como cliente),
 `docs/` (arquitetura e roteiro do vídeo).
-
-## Licença
-
-MIT
