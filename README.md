@@ -17,7 +17,7 @@ memória: validação, transformação, filtro, roteamento, ramos paralelos, **i
 
 ## Vídeo de apresentação
 
-▶ [LINK DO VÍDEO NO YOUTUBE — substituir antes da entrega]
+▶ [https://www.youtube.com/watch?v=aN3CqemTrJI](https://www.youtube.com/watch?v=aN3CqemTrJI)
 
 ## Sumário
 
